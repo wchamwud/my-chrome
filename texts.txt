@@ -13,11 +13,11 @@ Google DeepMind shifts from research powerhouse to AI product giant
 Google YouTube now lets users remove AI content that mimics their faces and voices
 Google AI Overviews is showing Reddit posts less frequently
 Google Chrome is working on AI-powered browsing history search
-Google Google Messages releases Gemini integration to all AOS devices
+Google Messages releases Gemini integration to all AOS devices
 Google Gemini hints at possible support for Google Assistant’s popular feature "Routines"
 Google Gemini to offer more voice options
 Apple releases 20 Core ML models on Hugging Face platform
-Adobe Adobe Firefly adds free AI image generation and editing tool in PDFs
+Adobe Firefly adds free AI image generation and editing tool in PDFs
 Adobe updates new terms of service to not train AI on users’ personal work
 Amazon enhanced AI-powered Alexa hints at potential paid version
 Amazon extends generative AI-powered product listings to Europe
@@ -58,16 +58,16 @@ Google Google Play pauses its expansion of real-money games
 Google YouTube adds "Called Notes" to offer viewers more context and information on videos
 Google releases third Android 15 beta with simplified biometric UI
 Google Gmail introduces simplified inbox toolbar UI and layout options
-Rakuten Rakuten Mobile surpasses 7M users
+Rakuten Mobile surpasses 7M users
 Rakuten launches "Rakuten PLAY," a streaming guide for leading VOD services in Japan
 Note introduces PayPal for international payments to enhance creator earnings
 TimeTree launches birthday sticker feature for shared calendars
-Kakao Kakao Bank's first overseas investment "Superbank" launches in Indonesia
-Market Kakao Bank, K Bank and Toss Bank captivate Gen MZ with unconventional passbooks
-WeChat Huawei is considering to exempt WeChat from in-app transaction fees
-WeChat Tencent ponders banning AI videos on WeChat over low-quality content concerns
+Kakao Bank's first overseas investment "Superbank" launches in Indonesia
+Kakao Bank, K Bank and Toss Bank captivate Gen MZ with unconventional passbooks
+Huawei is considering to exempt WeChat from in-app transaction fees
+Tencent ponders banning AI videos on WeChat over low-quality content concerns
 ByteDance TikTok launches Instagram Clone "Whee," a friends-only image sharing app
-Alibaba Alibaba Cloud deploys AI multi-camera replay service at Paris Olympics
+Alibaba Cloud deploys AI multi-camera replay service at Paris Olympics
 TikTok offers Commercial Music Library within Adobe Express
 Telegram Telegram Ads to offer TON payment option for advertisers and creators
 Twitter revenue drops as advertisers churn after Elon Musk acquisition
