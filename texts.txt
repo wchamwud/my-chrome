@@ -1,1 +1,137 @@
-This is text one|https://www.google.com/
+Character.ai Releases a new calling feature to talk with AI avatars on the phone
+
+Meta Instagram launches "AI Studio," a feature that lets creators build their own versions of AI chatbots as an early test
+
+Google Building AI chatbots that can compete with Meta and Character.ai
+
+Google Translate adds 110 languages ​​and improves language learning with PaLM 2
+
+Google Analytics 4 will deliver marketing insights with enhanced AI capabilities
+
+Google Adds Gemini AI to Gmail, Google Docs, Google Drive and more for paid users
+
+Google AI chatbots now have multiple protection features for teens 13 and older
+
+Google Reports that Gemini 1.5 Flash is 20% faster than OpenAI's ChatGPT-4o
+
+OpenAI Acquires Multi, a startup that develops video platform for enterprises
+
+OpenAI ChatGPT "Voice Mode" release is postponed to July
+
+OpenAI ChatGPT-5 with enhanced NLP capabilities is expected to be released later this year
+
+OpenAI ChatGPT-6 could make AI Agent a reality in 2 years
+
+OpenAI GPT-4-based "CriticGPT" will help spot errors in ChatGPT coding suggestions
+
+OpenAI ChatGPT app is now available to all macOS users
+
+Apple rejects partnership with Meta to bring AI chatbots to iOS 18
+
+Apple reportedly working to bring AI to Vision Pro
+
+Microsoft "Microsoft Viva" supports Copilot for Microsoft 365 adoption
+
+Amazon reaches $2T market value for the first time, driven by AI vision and a rate cut strategy
+
+Amazon developing a ChatGPT competitor called "Metis"
+
+Baidu releases upgraded "Ernie 4.0 Turbo" AI chatbot as OpenAI blocks China’s API access
+
+Anthropic releases updates for Claude to improve collaboration and productivity
+
+Anthropic releases "Projects,” a collaboration feature for enterprise
+
+Mozilla Firefox offers access to different AI chatbots in Nightly builds
+
+Box announces upgrade to “Box AI,” integration with GPT-4o
+
+Creatio no-code startup for enterprises reaches unicorn status with $200M funding
+
+Invoke Open Model Initiative to release a new model to compete with Stable Diffusion
+
+Reddit to block AI crawlers from accessing public data
+
+Kakao to shut down "Karlo AI Profile" service after 7 months
+
+Kakao shifts focus from LLM development to profitable AI services
+
+Upstage to cooperate with Amazon on AI solutions
+
+AIZ Entertainment former Kakao CEO's startup AIZ Entertainment raises ₩16B seed round
+
+Market employees prefer OpenAI over Google AI for work
+
+Meta Threads’ fediverse integration is now available in more than 100 countries
+
+Meta Threads tests ephemeral posting options and “Media” tab in profiles
+
+Meta rolls out “Broadcast Channels” to pages with 10K+ followers on Facebook and Messenger
+
+Meta Influencer Marketing Hub releases recent Facebook statistics, including revenues and users
+
+Meta Statista publishes statistics on South Korean Facebook users from 2017 to 2029
+
+Meta Instagram adds a new feature to publicly disclose post share count
+
+Meta Instagram becomes the world’s most downloaded app in 1Q24
+
+Meta WhatsApp and Messenger hit with partial outage, breaking pictures and voice messages
+
+Meta WhatsApp tests shortcut reply for video messages in AOS beta
+
+Meta WhatsApp rolls out event creation management feature within group chats
+
+Meta WhatsApp tests an in-app dialer, allowing users to call without saving contact numbers
+
+Apple adds RCS support in Messages on iOS 18 beta for developers
+
+Apple planning software updates for iOS 19, macOS 16, watchOS 12, visionOS 3, and more
+
+Google Chrome introduces features to make search easier on iOS and AOS mobile
+
+Google YouTube to launch additional Premium plans
+
+Google YouTube releases a report highlighting the role of fandom within the app
+
+Google to reveal new "Collections" feature for using multiple apps on AOS home screen
+
+Tencent WeChat Keyboard launches "One Click AI Q&A" feature within chat input box
+
+Mercari announces user statistics for Mercari’s 11th anniversary, 40% of transactions come from entertainment and hobbies
+
+Kakao Bank, proportion of users over age 50 increases to 25% in the last two years
+
+Kakao vulnerability in KakaoTalk has been identified that allows unauthorized access to other user accounts
+
+ByteDance Whee, known as Instagram for TikTok, lacks traction due to low downloads
+
+ByteDance releases "Doubao MarsCode" tool with code completion feature
+
+TikTok publishes "What's Next 2024" report that shares trend insights for marketers
+
+Snap Snapchat introduces new safety features, including updates on account blocking and location-sharing
+
+Pinterest Statista reports Pinterest’s global user distribution by gender as of April 2024
+
+Pinterest introduces feature to turn boards into short videos for social media sharing
+
+Twitter signs exclusive distribution deal with VERZUZ to stream content for free on Twitter
+
+Twitch plans to release revised mobile app this summer
+
+Market KPMG reveals that Gen Z's shopping decisions are heavily driven by TikTok and influencers
+
+Frienzy social networking app for Gen Z that can safely manage group travel plans attracts 15K users
+
+ABLY “4910” platform increases Gen MZ male orders with AI personalized recommendation technology
+
+Market Gen Z emerges as a key customer base for premium cards, driven by spending habits
+
+Market 1020s believe Twitter is at the top of the trend curve while Instagram is in the middle
+
+Lucid Lab releases "AI Chat Booster,” an anonymous community platform for Gen Z+Alpha
+
+Fizz college community app raises $12M Series A funding
+
+Hebbia raises $100M Series B led by a16z to develop AI-powered document search
