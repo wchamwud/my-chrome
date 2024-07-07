@@ -1,84 +1,137 @@
-OpenAI ChatGPT to release new voice mode "Alpha"
-OpenAI acquires “Rockset” to enhance AI Infrastructure with real-time search and data analytics tools
-OpenAI GPT-4o achieves 50% accuracy on ARC-AGI, assessing AI reasoning ability
-Meta Llama 3-based AI assistant "Meta AI" launches in India
-Meta unveils five AI models for multi-modal processing, music generation, and more
-Meta Messenger provides AI options to help brands engage with customers via DM
-Meta unveils AI-powered Messenger chatbot, Threads API at Cannes Lions
-Meta, Apple discuss integrating Meta AI models into Apple Intelligence
-Microsoft updates "Recall" feature to translate, summarize, and provide insights
-Microsoft releases Copilot+ PC without "Recall” AI feature due to security and privacy concerns
-Google DeepMind previews video-to-audio tool that creates soundtracks based on video
-Google DeepMind shifts from research powerhouse to AI product giant
-Google YouTube now lets users remove AI content that mimics their faces and voices
-Google AI Overviews is showing Reddit posts less frequently
-Google Chrome is working on AI-powered browsing history search
-Google Messages releases Gemini integration to all AOS devices
-Google Gemini hints at possible support for Google Assistant’s popular feature "Routines"
-Google Gemini to offer more voice options
-Apple releases 20 Core ML models on Hugging Face platform
-Adobe Firefly adds free AI image generation and editing tool in PDFs
-Adobe updates new terms of service to not train AI on users’ personal work
-Amazon enhanced AI-powered Alexa hints at potential paid version
-Amazon extends generative AI-powered product listings to Europe
-xAI Grok to add image generation feature using Midjourney and "Code Mode"
-TikTok introduces generative AI avatars in ads to provide global market expansion opportunities
-Snap previews on-device AI models for AR content generation
-Stability.ai releases text-to-image generation tool Stable Diffusion 3 Medium II model
-Anthropic launches latest LLM “Claude 3.5 Sonnet” and debuts “Artifact” for collaboration
-Perplexity aims to lock in users by providing factual queries such as weather, currency conversion, and math calculations
-Zuoyebang Chinese-developed “Question.AI” gains foothold in US as AI homework assistant
-CuspAI raises $30M to create a generative AI-driven search engine for new materials
-Butterflies former Snap engineer launches “Butterflies,” a social network where AIs and humans coexist
-SSI former OpenAI Chief Scientist launches new AI Company, Safe Superintelligence Inc. (SSI)
-Speak language learning app Speak raises $20M, valuation increased by 200%
-Poolside raises $400M+ at a $2B valuation to build a supercharged coding co-pilot
-APIGen two high school teens raise $500K seed round for API startup, APIGen
-Wordsmith raises $5M seed funding to develop co-pilots for legal tasks
-Finbourne raises $70M for tech that turns financial data for AI use
-Luma video creation tool "Dream Machine" accused of plagiarizing Disney animation
-Market a guide to creating comic strips with ChatGPT and Midjourney
-Market U.S. Treasury proposes restrictions on Chinese tech, AI investments for national security
-Market on-device pioneer Nota AI raises $19.9M in Series C funding
-Market Perplexity plans to enter the Japanese market through a partnership with SoftBank
-Market Japan aims to become the most AI-friendly nation with regulation-light strategy
-Market Playauto partners with Alibaba, Deepbrain offers AI avatars, and more
-Market Naver and Kakao form global alliance to expand and monetize AI ecosystem
-Meta Instagram launches Live broadcasts for close friends only
-Meta Threads releases API for developers to build integrations
-Meta Facebook tests “Auto A/B testing" for Reels
-Meta Instagram launches option to add music to carousel posts with videos
-Meta Instagram experiments with Chat Widgets for DM
-Meta WhatsApp beta adds the ability to transfer chat history without Google Drive
-Apple to shut down "Apple Pay Later" 6 months after launch
-Apple plans on building a cheaper headset and may discontinue Vision Pro 2
-Apple reveals 5 major changes coming to iOS 18 Notes
-Google Gmail access from Outlook to stop due to new security requirements
-Google Google Play pauses its expansion of real-money games
-Google YouTube adds "Called Notes" to offer viewers more context and information on videos
-Google releases third Android 15 beta with simplified biometric UI
-Google Gmail introduces simplified inbox toolbar UI and layout options
-Rakuten Mobile surpasses 7M users
-Rakuten launches "Rakuten PLAY," a streaming guide for leading VOD services in Japan
-Note introduces PayPal for international payments to enhance creator earnings
-TimeTree launches birthday sticker feature for shared calendars
-Kakao Bank's first overseas investment "Superbank" launches in Indonesia
-Kakao Bank, K Bank and Toss Bank captivate Gen MZ with unconventional passbooks
-Huawei is considering to exempt WeChat from in-app transaction fees
-Tencent ponders banning AI videos on WeChat over low-quality content concerns
-ByteDance TikTok launches Instagram Clone "Whee," a friends-only image sharing app
-Alibaba Cloud deploys AI multi-camera replay service at Paris Olympics
-TikTok offers Commercial Music Library within Adobe Express
-Telegram Telegram Ads to offer TON payment option for advertisers and creators
-Twitter revenue drops as advertisers churn after Elon Musk acquisition
-Twitter to make live streaming a premium only feature
-Twitter to provide “Active Times” analytics to users
-Twitter plans to launch P2P service to evolve as everything app
-Twitter weakens as a news source while TikTok’s popularity rise
-Discord integrates limited-time advertisement feature "Quests" to promote game marketing channel
-Discord “Discord Nitro” updates three new features, including free service trial
-Elin.ai Gen Z mental app raises €600K in pre-seed funding
-Reddit shares insights on search experience within search engines and social media
-Reddit enhances "Conversation Ads" placements to reach users more effectively
-Seen allows users to record reactions to TikTok and other content
-Roots introduces a screen time app for tracking digital dopamine
+Character.ai Releases a new calling feature to talk with AI avatars on the phone
+
+Meta Instagram launches "AI Studio," a feature that lets creators build their own versions of AI chatbots as an early test
+
+Google Building AI chatbots that can compete with Meta and Character.ai
+
+Google Translate adds 110 languages ​​and improves language learning with PaLM 2
+
+Google Analytics 4 will deliver marketing insights with enhanced AI capabilities
+
+Google Adds Gemini AI to Gmail, Google Docs, Google Drive and more for paid users
+
+Google AI chatbots now have multiple protection features for teens 13 and older
+
+Google Reports that Gemini 1.5 Flash is 20% faster than OpenAI's ChatGPT-4o
+
+OpenAI Acquires Multi, a startup that develops video platform for enterprises
+
+OpenAI ChatGPT "Voice Mode" release is postponed to July
+
+OpenAI ChatGPT-5 with enhanced NLP capabilities is expected to be released later this year
+
+OpenAI ChatGPT-6 could make AI Agent a reality in 2 years
+
+OpenAI GPT-4-based "CriticGPT" will help spot errors in ChatGPT coding suggestions
+
+OpenAI ChatGPT app is now available to all macOS users
+
+Apple rejects partnership with Meta to bring AI chatbots to iOS 18
+
+Apple reportedly working to bring AI to Vision Pro
+
+Microsoft "Microsoft Viva" supports Copilot for Microsoft 365 adoption
+
+Amazon reaches $2T market value for the first time, driven by AI vision and a rate cut strategy
+
+Amazon developing a ChatGPT competitor called "Metis"
+
+Baidu releases upgraded "Ernie 4.0 Turbo" AI chatbot as OpenAI blocks China’s API access
+
+Anthropic releases updates for Claude to improve collaboration and productivity
+
+Anthropic releases "Projects,” a collaboration feature for enterprise
+
+Mozilla Firefox offers access to different AI chatbots in Nightly builds
+
+Box announces upgrade to “Box AI,” integration with GPT-4o
+
+Creatio no-code startup for enterprises reaches unicorn status with $200M funding
+
+Invoke Open Model Initiative to release a new model to compete with Stable Diffusion
+
+Reddit to block AI crawlers from accessing public data
+
+Kakao to shut down "Karlo AI Profile" service after 7 months
+
+Kakao shifts focus from LLM development to profitable AI services
+
+Upstage to cooperate with Amazon on AI solutions
+
+AIZ Entertainment former Kakao CEO's startup AIZ Entertainment raises ₩16B seed round
+
+Market employees prefer OpenAI over Google AI for work
+
+Meta Threads’ fediverse integration is now available in more than 100 countries
+
+Meta Threads tests ephemeral posting options and “Media” tab in profiles
+
+Meta rolls out “Broadcast Channels” to pages with 10K+ followers on Facebook and Messenger
+
+Meta Influencer Marketing Hub releases recent Facebook statistics, including revenues and users
+
+Meta Statista publishes statistics on South Korean Facebook users from 2017 to 2029
+
+Meta Instagram adds a new feature to publicly disclose post share count
+
+Meta Instagram becomes the world’s most downloaded app in 1Q24
+
+Meta WhatsApp and Messenger hit with partial outage, breaking pictures and voice messages
+
+Meta WhatsApp tests shortcut reply for video messages in AOS beta
+
+Meta WhatsApp rolls out event creation management feature within group chats
+
+Meta WhatsApp tests an in-app dialer, allowing users to call without saving contact numbers
+
+Apple adds RCS support in Messages on iOS 18 beta for developers
+
+Apple planning software updates for iOS 19, macOS 16, watchOS 12, visionOS 3, and more
+
+Google Chrome introduces features to make search easier on iOS and AOS mobile
+
+Google YouTube to launch additional Premium plans
+
+Google YouTube releases a report highlighting the role of fandom within the app
+
+Google to reveal new "Collections" feature for using multiple apps on AOS home screen
+
+Tencent WeChat Keyboard launches "One Click AI Q&A" feature within chat input box
+
+Mercari announces user statistics for Mercari’s 11th anniversary, 40% of transactions come from entertainment and hobbies
+
+Kakao Bank, proportion of users over age 50 increases to 25% in the last two years
+
+Kakao vulnerability in KakaoTalk has been identified that allows unauthorized access to other user accounts
+
+ByteDance Whee, known as Instagram for TikTok, lacks traction due to low downloads
+
+ByteDance releases "Doubao MarsCode" tool with code completion feature
+
+TikTok publishes "What's Next 2024" report that shares trend insights for marketers
+
+Snap Snapchat introduces new safety features, including updates on account blocking and location-sharing
+
+Pinterest Statista reports Pinterest’s global user distribution by gender as of April 2024
+
+Pinterest introduces feature to turn boards into short videos for social media sharing
+
+Twitter signs exclusive distribution deal with VERZUZ to stream content for free on Twitter
+
+Twitch plans to release revised mobile app this summer
+
+Market KPMG reveals that Gen Z's shopping decisions are heavily driven by TikTok and influencers
+
+Frienzy social networking app for Gen Z that can safely manage group travel plans attracts 15K users
+
+ABLY “4910” platform increases Gen MZ male orders with AI personalized recommendation technology
+
+Market Gen Z emerges as a key customer base for premium cards, driven by spending habits
+
+Market 1020s believe Twitter is at the top of the trend curve while Instagram is in the middle
+
+Lucid Lab releases "AI Chat Booster,” an anonymous community platform for Gen Z+Alpha
+
+Fizz college community app raises $12M Series A funding
+
+Hebbia raises $100M Series B led by a16z to develop AI-powered document search
