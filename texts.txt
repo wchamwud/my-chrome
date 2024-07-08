@@ -1,17 +1,17 @@
-Character.ai Releases a new calling feature to talk with AI avatars on the phone
-Meta Instagram launches "AI Studio," a feature that lets creators build their own versions of AI chatbots as an early test
-Google Building AI chatbots that can compete with Meta and Character.ai
-Google Translate adds 110 languages ​​and improves language learning with PaLM 2
-Google Analytics 4 will deliver marketing insights with enhanced AI capabilities
-Google Adds Gemini AI to Gmail, Google Docs, Google Drive and more for paid users
-Google AI chatbots now have multiple protection features for teens 13 and older
-Google Reports that Gemini 1.5 Flash is 20% faster than OpenAI's ChatGPT-4o
-OpenAI Acquires Multi, a startup that develops video platform for enterprises
-OpenAI ChatGPT "Voice Mode" release is postponed to July
-OpenAI ChatGPT-5 with enhanced NLP capabilities is expected to be released later this year
-OpenAI ChatGPT-6 could make AI Agent a reality in 2 years
-OpenAI GPT-4-based "CriticGPT" will help spot errors in ChatGPT coding suggestions
-OpenAI ChatGPT app is now available to all macOS users
+Character.ai Releases a new calling feature to talk with AI avatars on the phone | https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/
+Meta Instagram launches "AI Studio," a feature that lets creators build their own versions of AI chatbots as an early test | https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot
+Google Building AI chatbots that can compete with Meta and Character.ai | https://protect2.fireeye.com/v1/url?k=31323334-501d0a38-3133420b-454441504e31-eadf1ed9828450a9&q=1&e=2b32dd43-f8b9-4f45-8848-cbb116f3cf00&u=https%3A%2F%2Freadwrite.com%2Fgoogle-is-reportedly-creating-ai-chatbots-that-challenge-meta-and-character-ai%2F
+Google Translate adds 110 languages ​​and improves language learning with PaLM 2 | https://protect2.fireeye.com/v1/url?k=31323334-501d0a38-3133420b-454441504e31-90e388d1d45546c9&q=1&e=2b32dd43-f8b9-4f45-8848-cbb116f3cf00&u=https%3A%2F%2Fsiliconangle.com%2F2024%2F06%2F27%2Fgoogle-uses-ai-bring-110-new-languages-translate%2F
+Google Analytics 4 will deliver marketing insights with enhanced AI capabilities | https://www.socialmediatoday.com/news/google-adds-ai-insights-google-analytics/720000/
+Google Adds Gemini AI to Gmail, Google Docs, Google Drive and more for paid users | https://www.entrepreneur.com/business-news/google-adds-gemini-ai-to-gmail-docs-sheets-slides-drive/476106
+Google AI chatbots now have multiple protection features for teens 13 and older | https://www.zdnet.com/article/googles-gemini-ai-chatbot-now-available-to-younger-students-in-workspace-how-its-different/
+Google Reports that Gemini 1.5 Flash is 20% faster than OpenAI's ChatGPT-4o | https://qz.com/google-gemini-ai-flash-chatgpt-speed-1851562683 
+OpenAI Acquires Multi, a startup that develops video platform for enterprises | https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/
+OpenAI ChatGPT "Voice Mode" release is postponed to July | https://techcrunch.com/2024/06/25/openai-delays-chatgpts-new-voice-mode/
+OpenAI ChatGPT-5 with enhanced NLP capabilities is expected to be released later this year | https://protect2.fireeye.com/v1/url?k=31323334-501d0a38-3133420b-454441504e31-5bde872327a5d35f&q=1&e=2b32dd43-f8b9-4f45-8848-cbb116f3cf00&u=https%3A%2F%2Freadwrite.com%2Fchatgpt-5-release-date-price-and-what-we-know-so-far%2F
+OpenAI ChatGPT-6 could make AI Agent a reality in 2 years  | https://www.digitaltrends.com/computing/microsoft-ai-ceo-just-dropped-huge-hint-gpt-5/
+OpenAI GPT-4-based "CriticGPT" will help spot errors in ChatGPT coding suggestions | https://www.techradar.com/pro/new-openai-gpt-4-service-will-help-spot-errors-in-chatgpt-coding-suggestions
+OpenAI ChatGPT app is now available to all macOS users | https://techcrunch.com/2024/06/25/chatgpt-for-mac-is-now-available-to-all/
 Apple rejects partnership with Meta to bring AI chatbots to iOS 18
 Apple reportedly working to bring AI to Vision Pro
 Microsoft "Microsoft Viva" supports Copilot for Microsoft 365 adoption
