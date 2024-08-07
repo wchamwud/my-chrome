@@ -1,68 +1,80 @@
-Character.ai Releases a new calling feature to talk with AI avatars on the phone
-Meta Instagram launches "AI Studio," a feature that lets creators build their own versions of AI chatbots as an early test
-Google Building AI chatbots that can compete with Meta and Character.ai
-Google Translate adds 110 languages ​​and improves language learning with PaLM 2
-Google Adds Gemini AI to Gmail, Google Docs, Google Drive and more for paid users
-Google AI chatbots now have multiple protection features for teens 13 and older
-Google Reports that Gemini 1.5 Flash is 20% faster than OpenAI's ChatGPT-4o
-OpenAI Acquires Multi, a startup that develops video platform for enterprises
-OpenAI ChatGPT "Voice Mode" release is postponed to July
-OpenAI ChatGPT-5 with enhanced NLP capabilities is expected to be released later this year
-OpenAI ChatGPT-6 could make AI Agent a reality in 2 years
-OpenAI GPT-4-based "CriticGPT" will help spot errors in ChatGPT coding suggestions
-OpenAI ChatGPT app is now available to all macOS users
-Apple rejects partnership with Meta to bring AI chatbots to iOS 18
-Apple reportedly working to bring AI to Vision Pro
-Microsoft "Microsoft Viva" supports Copilot for Microsoft 365 adoption
-Amazon reaches $2T market value for the first time, driven by AI vision and a rate cut strategy
-Amazon developing a ChatGPT competitor called "Metis"
-Baidu releases upgraded "Ernie 4.0 Turbo" AI chatbot as OpenAI blocks China’s API access
-Anthropic releases updates for Claude to improve collaboration and productivity
-Anthropic releases "Projects,” a collaboration feature for enterprise
-Mozilla Firefox offers access to different AI chatbots in Nightly builds
-Box announces upgrade to “Box AI,” integration with GPT-4o
-Creatio no-code startup for enterprises reaches unicorn status with $200M funding
-Invoke Open Model Initiative to release a new model to compete with Stable Diffusion
-Reddit to block AI crawlers from accessing public data
-Kakao to shut down "Karlo AI Profile" service after 7 months
-Kakao shifts focus from LLM development to profitable AI services
-Upstage to cooperate with Amazon on AI solutions
-AIZ Entertainment former Kakao CEO's startup AIZ Entertainment raises ₩16B seed round
-Market employees prefer OpenAI over Google AI for work
-Meta Threads’ fediverse integration is now available in more than 100 countries
-Meta Threads tests ephemeral posting options and “Media” tab in profiles
-Meta rolls out “Broadcast Channels” to pages with 10K+ followers on Facebook and Messenger
-Meta Influencer Marketing Hub releases recent Facebook statistics, including revenues and users
-Meta Statista publishes statistics on South Korean Facebook users from 2017 to 2029
-Meta Instagram adds a new feature to publicly disclose post share count
-Meta Instagram becomes the world’s most downloaded app in 1Q24
-Meta WhatsApp and Messenger hit with partial outage, breaking pictures and voice messages
-Meta WhatsApp tests shortcut reply for video messages in AOS beta
-Meta WhatsApp rolls out event creation management feature within group chats
-Meta WhatsApp tests an in-app dialer, allowing users to call without saving contact numbers
-Apple adds RCS support in Messages on iOS 18 beta for developers
-Apple planning software updates for iOS 19, macOS 16, watchOS 12, visionOS 3, and more
-Google Chrome introduces features to make search easier on iOS and AOS mobile
-Google YouTube to launch additional Premium plans
-Google YouTube releases a report highlighting the role of fandom within the app
-Google to reveal new "Collections" feature for using multiple apps on AOS home screen
-Tencent WeChat Keyboard launches "One Click AI Q&A" feature within chat input box
-Mercari announces user statistics for Mercari’s 11th anniversary, 40% of transactions come from entertainment and hobbies
-Kakao Bank, proportion of users over age 50 increases to 25% in the last two years
-Kakao vulnerability in KakaoTalk has been identified that allows unauthorized access to other user accounts
-ByteDance Whee, known as Instagram for TikTok, lacks traction due to low downloads
-ByteDance releases "Doubao MarsCode" tool with code completion feature
-TikTok publishes "What's Next 2024" report that shares trend insights for marketers
-Snap Snapchat introduces new safety features, including updates on account blocking and location-sharing
-Pinterest Statista reports Pinterest’s global user distribution by gender as of April 2024
-Pinterest introduces feature to turn boards into short videos for social media sharing
-Twitter signs exclusive distribution deal with VERZUZ to stream content for free on Twitter
-Twitch plans to release revised mobile app this summer
-Market KPMG reveals that Gen Z's shopping decisions are heavily driven by TikTok and influencers
-Frienzy social networking app for Gen Z that can safely manage group travel plans attracts 15K users
-ABLY “4910” platform increases Gen MZ male orders with AI personalized recommendation technology
-Market Gen Z emerges as a key customer base for premium cards, driven by spending habits
-Market 1020s believe Twitter is at the top of the trend curve while Instagram is in the middle
-Lucid Lab releases "AI Chat Booster,” an anonymous community platform for Gen Z+Alpha
-Fizz college community app raises $12M Series A funding
-Hebbia raises $100M Series B led by a16z to develop AI-powered document search
+OpenAI tests new AI search feature “SearchGPT”
+Meta releases Llama 3.1 405B, the biggest open-source AI model to date
+OpenAI ChatGPT’s Voice Mode will roll out soon to Plus plan subscribers
+OpenAI announces drastically cheaper fine-tuning for GPT-4o mini model
+OpenAI GPT-4V shows high accuracy in medical experiments, but prone to mistakes during explaining medical image reasoning
+Meta releases Llama 3.1 open-source AI app, drawing contrast to competitors like OpenAI and Anthropic
+Meta open-sources Llama AI model to foster developers to build their own AI systems
+Meta releases image generation feature “Imagine Yourself” and Llama 3.1 405B to Meta AI
+Meta AI expands user accessibility and introduces new Creative Tools
+Meta Oversight Board urges Meta to refine policies regarding AI-generated explicit images
+Meta supports 7 new languages and releases new features, including “Imagine me,” to AI chatbot
+Meta AI expands access to AI assistant features and adds new languages including French, German, Spanish, and Portuguese
+Meta AI on Quest 3 and Quest Pro headset will function similarly to personal assistants
+Microsoft aims to drive AI initiative and support digital transformation through partnership with Lumen Technologies
+Microsoft introduces new update that summarizes documents up to 80K words to Copilot
+Microsoft removes “GPT Builder” in $20 Copilot Pro and focuses on enterprise customers
+Google introduces AI-based features for SMBs in Product Studio, including image-to-video and 3D view
+Google Research team develops “NeuralGCM,” the first machine-learning model that generates weather forecasts with high-accuracy
+Google 2Q24 report shows steady growth of AI-related divisions, including search engine and Google Cloud
+Google tests save feature for AI Overview to Google Interests collection
+Google plans to add edit feature for Gemini-generated images by natural language prompts or drawing a circle
+Google releases Gemini 1.5 Flash, adds wider context window and features to mitigate AI Hallucination
+Google provides policy guidelines for behavior codes for Gemini and users in Gemini app
+Mistral releases flagship LLM Large 2 with excellent code generation, math, and reasoning capabilities
+Mistral integrates Large 2 to Amazon Bedrock, and provides features including 128K context window and native JSON output mode
+Airtable no-code platform introduces “Cobuilder,” a tool that builds custom apps from natural language prompts
+Anthropic web crawler ClaudeBot accused of egregious data crawling from websites including iFixit and Freelancer
+FOMO.ai introduces AI-powered tools platform to improve marketing approach
+Market AI maturity index results from 21 countries suggests that most companies are still in early stages of generative AI adoption
+Market Nature study announces that indiscriminate use of model-generated content for model training leads to "model collapse"
+Market POSTECH students develop customized children's book generation system based on generative AI and home IoT technology
+Market Capgemini survey of executives reveals 9 out of 10 companies are considering adopting generative AI
+IntelePeer AI-powered communication automation platform secures $140M in funding to continue development of generative AI
+Market Ministry of SMEs and Startups announces trends in South Korea's deep tech start-ups in 1H24, with new investments of ₩1.2T, YoY +80%
+Egnyte launches AI Assistant "Egnyte Copilot" to foster enterprise content collaboration, with features such as auto-categorization of questions and files using natural language
+Baichuan AI secures $691M in funding from Alibaba, Tencent, Xiaomi
+Mastercard develops a system that combines generative AI and graph technology to detect fraud
+Cohere Canadian AI research firm raises $500M in new funding to compete with OpenAI, Anthropic
+Cohere announces that instead of chasing AGI such as OpenAI and Google, the firm will create efficient models to solve real-world problems for companies
+Market Global AI text generator market size to reach $0.61B this year, recording a CAGR of +20.7%
+Runway faces allegations of training AI model with YouTube videos and pirated movies
+Mango Animate releases "AI Talking Head Video Generator" to convert text into a video with an avatar talking
+Mango Animate releases "AI Cartoon Video Generator" to convert text and images into cartoon videos
+Fal.ai generative media company releases open source AI image generator "Auraflow" with Apache 2.0 license
+Twitter chatbot Grok is under investigation by European data regulators for allegedly using user data to train its AI
+Harvey startup building AI tools for lawyers raises $100M in Series C round with GV, OpenAI, Kleiner Perkins
+Reddit blocks some search engines from crawling except Google, which has a $60M per year content licensing deal
+Microsoft launches Bing generative search, putting generative AI answers front-center on the search results page
+Amazon supports for the next generation Llama 3.1 model to provide additional options for building generative AI apps
+Amazon Meta's Llama 3.1 405B, 70B, and 8B models are now available on Amazon Bedrock
+Twitter releases a new feature for X Premium and Premium+ subscribers that allows users to highlight text and ask Grok AI chatbot questions
+Adobe introduces new Firefly AI tools in Photoshop and Illustrator, including “Generative Shape Fill”
+Yandex a group of Russian investors’ $5.4B purchase ends foreign ownership
+Meta WhatsApp’s U.S. MAU surpasses 100M
+Meta will launch XR headset Meta Quest with Meta AI to U.S. and Canada next month
+Meta WhatsApp is developing “Reshare Status Updates” feature that allows users to reshare status update where they have been mentioned
+Meta is developing "Nearby Share," an AirDrop-like file sharing feature
+Meta WhatsApp introduces new "Album Picker" feature to choose photos and videos to select beta testers
+Amazon will launch paid Alexa tier with enhanced AI Assistant “Remarkable Alexa” this month
+Apple Intelligence release is likely to be delayed to October to have more time to fix bugs
+Apple releases iOS 17.6 and plans to update iPhones, including new Catch Up feature
+Apple iOS 18 will bring new features including Math Notes, which integrates Calculator and Notes apps
+Apple iOS 18 will introduce Photos app screen rearrangement, new AI image creation tool “Image Playground”
+Google Play introduces "Collections" and other new features
+Google search and cloud computing businesses drive $85B in revenue, up +14% YoY over the past few months
+Google YouTube reports 2Q24 ad revenue up +13% YoY to $8.66B
+Google releases AOS 15 on 13th August, with 15 new features, including NFC Wireless Charging, Forced Dark Mode
+Microsoft introduces two new recovery options to address disruptions caused by CrowdStrike
+ByteDance TikTok will launch in-app shopping platform in Spain and Ireland in early October
+Rakuten plans to pursue linkage strategy with approximately 70 services within Rakuten Group to expand entry of South Korean products into Japan in the future
+Market Kakao Pay and Toss Pay are providing refunds in advance for payments made on TMON·WeMakePrice
+Market in June, Korean teenager smartphone users spent 94.1M hours on Instagram app, double that of KakaoTalk at 48.2M hours
+Alibaba introduces Meta's new Llama 3.1 model along with Tencent
+Alibaba 500K sellers are using AI Toolkit "Aidge"
+TikTok adds custom thumbnail image upload function for video contents
+TikTok launches "Sound Search" feature to find songs by singing or playing
+Telegram surpasses 950M users and launches app store and in-app browser with support for Web 3.0 pages
+Twitter adds an opt-out provision that allows users to refuse to use their posts for AI training
+Macrogen will launch “GenTok,” a genetic testing service with high popularity from 2030, to Galaxy in partnership with Samsung Electronics
+Karrot secondhand transaction social app surpasses 1M Canadian users in May, adopting hyperlocal strategy
